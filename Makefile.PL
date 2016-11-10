@@ -2,7 +2,7 @@ use ExtUtils::MakeMaker;
 
 WriteMakefile (
   NAME		=> 'Eval::Logic',
-  VERSION	=> 0.01,
+  VERSION	=> 1.00,
   PREREQ_PM	=> {
     'Carp' => 0,
     'Symbol' => 0,
