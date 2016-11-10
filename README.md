@@ -9,9 +9,9 @@ INSTALL
 
 Installation with:
 
-  perl Makefile.PL
-  make test
-  make install
+    perl Makefile.PL
+    make test
+    make install
 
 USAGE
 -----
